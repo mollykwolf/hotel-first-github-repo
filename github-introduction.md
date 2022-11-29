@@ -3,7 +3,7 @@
 ## GitHub Vocabulary
 - git - version control software
 - GitHub - online platform for sharing code and tracking versions
-- remote - on the cloud of the GitHub platform 
+- remote - on the cloud of the GitHub platform
 - local - my computer
 - branch - path between remote and local
 - clone - putting a repo on my local
@@ -18,10 +18,10 @@
 - git push origin main
 
 ## Keyboard Shortcuts
-- command + s - save
-- command + r - refresh
-- command + x - cut
-- command + v- paste
-- commmand + z - undo
-- command + a - select all items
-- command + space bar- show the spotlight search field
+- `command + s` - save
+- `command + r` - refresh
+- `command + x` - cut
+- `command + v` - paste
+- `commmand + z` - undo
+- `command + a` - select all items
+- `command + space bar` - show the spotlight search field
