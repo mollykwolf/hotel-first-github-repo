@@ -1,15 +1,15 @@
 # GitHub Introduction
 
 ## GitHub Vocabulary
-- git
-- GitHub
-- remote
-- local
-- branch
-- clone
-- repo (repository)
-- GUI
-- markdown
+- git - version control software
+- GitHub - online platform for sharing code and tracking versions
+- remote - on the cloud of the GitHub platform 
+- local - my computer
+- branch - path between remote and local
+- clone - putting a repo on my local
+- repo (repository)- named folder that is attached to GitHub
+- GUI- graphic user interface
+- markdown- text based language  
 
 ## GitHub
 - git status
@@ -24,4 +24,4 @@
 - command + v- paste
 - commmand + z - undo
 - command + a - select all items
-- command + space bar- show the spotlight search field 
+- command + space bar- show the spotlight search field
