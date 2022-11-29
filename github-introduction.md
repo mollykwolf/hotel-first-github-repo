@@ -11,9 +11,15 @@
 - GUI
 - markdown
 
-
 ## GitHub
 - git status
 - git add <file-name>
 - git commit -m "meaningful message"
--git push origin main 
+- git push origin main
+
+## Keyboard Shortcuts
+- command + s - save
+- command + r - refresh
+- command + x - cut
+- command + v- paste
+- commmand + z - undo
