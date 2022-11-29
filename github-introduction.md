@@ -23,3 +23,5 @@
 - command + x - cut
 - command + v- paste
 - commmand + z - undo
+- command + a - select all items
+- command + space bar- show the spotlight search field 
